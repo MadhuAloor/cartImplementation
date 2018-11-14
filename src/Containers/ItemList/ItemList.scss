@@ -1,0 +1,13 @@
+.item-list-container{
+    width: 70%;
+    border: 2px solid black;
+    display: flex;
+    flex-flow: row;
+    display: flex;
+    flex-wrap: wrap;
+    .item-card-container{
+        display: flex;
+        flex-wrap: wrap;
+        width: 100%;
+    }
+}

@@ -1,0 +1,24 @@
+.read-only-view-container {
+    text-align: center;
+    .item-image-place-holder{
+        align-items: center;
+        border: 1px dotted black;
+        width: 50%;
+        min-height: 50px;
+        margin-left: 25%;
+        text-align: center;
+    }
+    .brand{
+        margin-top: 5px;
+        font-size: 16px;
+    }
+    .item-name{
+        text-align: center;
+        font-size: 18px;
+    }
+    .price{
+        font-size: 18px;
+        font-weight: bold;
+        margin: 2%;
+    }
+}
